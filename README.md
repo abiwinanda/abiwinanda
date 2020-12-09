@@ -11,6 +11,13 @@ Here are a few things about me:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+<details>
+  <summary>:zap: More facts about me:</summary>
+  
+<!--START_SECTION:more-facts-->
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+<!--END_SECTION:more-facts-->
+
 ### Languages and Tools that I Have Used Professionally:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -50,7 +57,18 @@ Here are a few things about me:
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Dev.to Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Kaffy - Admin Interface for Phoenix Applications](https://dev.to/abiwinanda/kaffy-admin-interface-for-phoenix-applications-3oon)
+- [Speed-up Building your Elixir Unit Tests with Fictitious](https://dev.to/abiwinanda/speed-up-building-your-elixir-unit-tests-with-fictitious-5gk1)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/abiwinanda)
+
+---
+
+### 📕 Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Kaffy - Admin Interface for Phoenix Applications](https://dev.to/abiwinanda/kaffy-admin-interface-for-phoenix-applications-3oon)
