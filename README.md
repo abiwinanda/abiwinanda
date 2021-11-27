@@ -66,3 +66,5 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/abiwinanda)
+
+![Nyoman Abiwinanda](https://raw.githubusercontent.com/abiwinanda/abiwinanda/main/bottom_header.svg?token=AHQ25CVRSH22TUXDF5XX46LBUJAUQ)
