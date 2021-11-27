@@ -30,3 +30,5 @@ Sometimes when I have time, I love to document my learning in a blog post. Feel 
 - [Understanding SQL Queries Performance Using SQL EXPLAIN and ANALYZE](https://blog.xendit.engineer/understanding-sql-queries-performance-using-sql-explain-and-analyze-887103cb4bdc)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+![Nyoman Abiwinanda](https://raw.githubusercontent.com/abiwinanda/abiwinanda/main/bottom_header.svg)
