@@ -29,6 +29,8 @@ Sometimes when I have time, I love to document my learning in a blog post. Feel 
 
 - [Understanding SQL Queries Performance Using SQL EXPLAIN and ANALYZE](https://blog.xendit.engineer/understanding-sql-queries-performance-using-sql-explain-and-analyze-887103cb4bdc)
 <!-- BLOG-POST-LIST:START -->
+- [Kaffy - Admin Interface for Phoenix Applications](https://dev.to/abiwinanda/kaffy-admin-interface-for-phoenix-applications-3oon)
+- [Speed-up Building your Elixir Unit Tests with Fictitious](https://dev.to/abiwinanda/speed-up-building-your-elixir-unit-tests-with-fictitious-5gk1)
 <!-- BLOG-POST-LIST:END -->
 
 ![Nyoman Abiwinanda](https://raw.githubusercontent.com/abiwinanda/abiwinanda/main/bottom_header.svg?token=AHQ25CQJRF5TQZUEYDKFCALBUJGZY)
