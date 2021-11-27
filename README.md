@@ -31,4 +31,4 @@ Sometimes when I have time, I love to document my learning in a blog post. Feel 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![Nyoman Abiwinanda](https://raw.githubusercontent.com/abiwinanda/abiwinanda/main/bottom_header.svg)
+![Nyoman Abiwinanda](https://raw.githubusercontent.com/abiwinanda/abiwinanda/main/bottom_header.svg?token=AHQ25CQJRF5TQZUEYDKFCALBUJGZY)
