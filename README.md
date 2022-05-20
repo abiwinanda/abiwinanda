@@ -1,7 +1,7 @@
 <h3 align="left">Hi There 👋</h3>
 
 <p align="left">
-I'm Nyoman, a software engineer who is currently building payment infrastructures across Indonesia, the Philippines and Southeast Asia.
+I'm Nyoman, a software engineer from Indonesia.
 </p>
 
 <h3 align="left">My Tech Stacks:</h3>
@@ -15,6 +15,7 @@ I'm Nyoman, a software engineer who is currently building payment infrastructure
 <img align="left" alt="C#" width="50px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />
 <img align="left" alt=".NET" width="50px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Postgres" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
