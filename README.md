@@ -1,7 +1,7 @@
 <h3 align="left">Hi There 👋</h3>
 
 <p align="left">
-I'm Nyoman, a software engineer from Indonesia.
+I'm Nyoman, a software engineer based in Tallinn, Estonia.
 </p>
 
 <h3 align="left">My Tech Stacks:</h3>
