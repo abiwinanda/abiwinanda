@@ -30,6 +30,7 @@ Sometimes when I have time, I love to document my learning in a blog post. Feel 
 
 - [Understanding SQL Queries Performance Using SQL EXPLAIN and ANALYZE](https://blog.xendit.engineer/understanding-sql-queries-performance-using-sql-explain-and-analyze-887103cb4bdc)
 <!-- BLOG-POST-LIST:START -->
+- [Controller-Free Approach for File Export in Phoenix LiveView](https://dev.to/abiwinanda/controller-free-approach-for-file-export-in-phoenix-liveview-fah)
 - [VSCode Snippet for Reducing Boilerplate Memorization in Elixir](https://dev.to/abiwinanda/vscode-snippet-for-reducing-boilerplate-memorization-in-elixir-1ip4)
 - [Limiting Concurrency in Elixir Using Registry](https://dev.to/abiwinanda/limiting-concurrency-in-elixir-using-registry-2kig)
 - [Kaffy - Admin Interface for Phoenix Applications](https://dev.to/abiwinanda/kaffy-admin-interface-for-phoenix-applications-3oon)
